@@ -50,3 +50,5 @@ Now that you know the background, required skills and professional pathways for 
 - [Fun Projects In After Effects](https://filtergrade.com/special-effects-tutorials-for-after-effects/)
 - [Udemy](https://www.udemy.com/courses/search/?q=after%20effects&src=sac&kw=after%20ef) courses on After Effects
 - [Udemy](https://www.udemy.com/courses/search/?q=photoshop) courses on Photoshop
+
+![logo](aftereffectslogo.png)
