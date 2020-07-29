@@ -1,4 +1,4 @@
-![alt-text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F81017073%2FCampfire-GIF&psig=AOvVaw0ndVfI_htyvcxNjalmtrxz&ust=1596083694986000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjp75_R8eoCFQAAAAAdAAAAABAD)
+![alt-text](campfire.gif)
 
 # Animation in Adobe After Affects
 ### by Ariana Higgins - AriHiggs89
