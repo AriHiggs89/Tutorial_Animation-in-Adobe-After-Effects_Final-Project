@@ -1,7 +1,7 @@
 # Animation in Adobe After Affects
 ### by Ariana Higgins - AriHiggs89
 =================================
-## Tutorial Overview:
+## Tutorial Overview
 In this tutorial, I will teach you how to take an open-source clip-art image and animate said image using Photoshop and After Effects. This tutorial is for beginners or anyone who would like to learn very basic Photoshop techniques, moving an edited image into After Effects, basic fade-in/fade-out, simple key-frame animation, and rendering the finished project in a multitude of formats.
 
 ## Animation & Motion Graphics
