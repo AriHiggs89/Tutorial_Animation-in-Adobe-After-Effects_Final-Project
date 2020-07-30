@@ -1,6 +1,6 @@
 ![alt-text](campfire.gif)
 
-# Animation in Adobe After Affects
+# Basic Animation in Adobe After Affects Tutorial
 ### by Ariana Higgins / GitHub: arihiggs89
 
 ## Tutorial Overview
