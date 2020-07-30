@@ -2,7 +2,7 @@
 
 # Animation in Adobe After Affects
 ### by Ariana Higgins / GitHub: arihiggs89
-=================================
+
 ## Tutorial Overview
 In this tutorial, I will teach you how to take an open-source image and animate this image using Adobe Photoshop and After Effects. This tutorial is for beginners who would like to learn very basic Photoshop (PS) and After Effects (AE) techniques used in media design. This tutorial does not require any experience with PS or AE, only a willingness to learn! 
 
@@ -53,4 +53,6 @@ The French artist Émile Cohl created the first animated film using what came to
 - [Udemy](https://www.udemy.com/courses/search/?q=after%20effects&src=sac&kw=after%20ef) courses on After Effects
 - [Udemy](https://www.udemy.com/courses/search/?q=photoshop) courses on Photoshop
 
-# Thank you for joining me and learning something new! Have fun storming the digital castle!
+# Thank you for joining me and I hope you learned something useful & new! Have fun storming the digital castle!
+
+![stormthecastle](stormthecastle.gif)
