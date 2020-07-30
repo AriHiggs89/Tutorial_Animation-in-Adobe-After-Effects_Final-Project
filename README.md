@@ -53,6 +53,6 @@ The French artist Émile Cohl created the first animated film using what came to
 - [Udemy](https://www.udemy.com/courses/search/?q=after%20effects&src=sac&kw=after%20ef) courses on After Effects
 - [Udemy](https://www.udemy.com/courses/search/?q=photoshop) courses on Photoshop
 
-# Thank you for joining me and I hope you learned something useful & new! Have fun storming the digital castle!
+## Thank you for joining me and I hope you learned something useful & new! Have fun storming the digital castle!
 
 ![stormthecastle](stormthecastle.gif)
