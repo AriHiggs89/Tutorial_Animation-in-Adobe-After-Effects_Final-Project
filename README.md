@@ -19,13 +19,13 @@ The French artist Émile Cohl created the first animated film using what came to
 - Communication and presentation skills
 - Ability to meet deadlines and work as part of a team
 
-**Animators use a range of techniques to make images appear to move, and most specialize in one of the following:**
+**Animators usually specialize in:**
 - 2D drawn animation
 - 2D computer animation
 - Stop-frame or stop-motion animation
 - 3D computer generated (CG) animation
 
-### Now that you know the background, required skills and professional pathways for animators & motion graphics artists, let's jump into the tutorial!
+### Now that you know the background, required skills and professional pathways for animation artists, let's jump into the tutorial!
 
 ## Required Materials for Tutorial
 1. [Open-Source Clip Art](https://openclipart.org/) - this is a copyright-free image repository with thousands of open-source images for free!
@@ -53,6 +53,8 @@ The French artist Émile Cohl created the first animated film using what came to
 - [Udemy](https://www.udemy.com/courses/search/?q=after%20effects&src=sac&kw=after%20ef) courses on After Effects
 - [Udemy](https://www.udemy.com/courses/search/?q=photoshop) courses on Photoshop
 
-## Thank you for joining me and I hope you learned something useful & new! Have fun storming the digital castle!
+## Thank you for joining me and I hope you learned something useful & new!
 
 ![stormthecastle](stormthecastle.gif)
+
+(the DigitalCastle<sup>TM</sup>)
