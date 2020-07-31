@@ -24,7 +24,7 @@ The French artist Émile Cohl created the first animated film using what came to
 - Stop-frame or stop-motion animation
 - 3D computer generated (CG) animation
 
-**Now that you know the background, required skills and professional pathways for animation artists, let's jump into the tutorial!**
+Now that you know the background, required skills and professional pathways for animation artists, **let's jump into the tutorial!**
 
 ## Required Materials for Tutorial:
 1. [Open-Source Clip Art](https://openclipart.org/) - this is a copyright-free image repository with thousands of open-source images for free!
@@ -35,7 +35,7 @@ The French artist Émile Cohl created the first animated film using what came to
 ## Process:
 1. Download Adobe Photoshop & Adobe After Effects on your device
 2. Find an image you would like to animate using the open-source image repository
-3. Open the YouTube tutorial on your desktop
+3. Open my YouTube tutorial playist
 4. Watch & follow along as we walk through:
 - [x] Pulling an image into Photoshop
 - [x] Editing the image for animation using layering
