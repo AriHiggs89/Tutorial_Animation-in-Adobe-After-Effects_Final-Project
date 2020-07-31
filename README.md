@@ -29,7 +29,7 @@ The French artist Émile Cohl created the first animated film using what came to
 ## Required Materials for Tutorial:
 1. [Open-Source Clip Art](https://openclipart.org/) - this is a copyright-free image repository with thousands of open-source images for free!
 2. [Adobe Creative Suite](https://www.adobe.com/creativecloud.html?promoid=NGWGRLB2&mv=other) - plans and free-trials for Adobe Photoshop,  After Effects + more!
-3. [YouTube Tutorial](https://www.youtube.com/watch?v=8PWoUHLS3tk&list=PLybC1WOwvtpUxvlJ-JCXm_Vx_lZJ2RO4Z) - YouTube Channel hosting the tutorial walkthrough
+3. [YouTube Tutorial](https://www.youtube.com/watch?v=8PWoUHLS3tk&list=PLybC1WOwvtpUxvlJ-JCXm_Vx_lZJ2RO4Z) - My YouTube Channel hosting the tutorial walkthrough
 4. Creativity & the willingness to learn!
 
 ## Process:
