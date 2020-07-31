@@ -43,7 +43,7 @@ The French artist Émile Cohl created the first animated film using what came to
 - [x] Pulling the edited image into After Effects for animation
 - [x] Adding a fade-in/fade-out for professional quality
 - [x] Using basic key-frame techniques to animate the image
-- [x] Rendering the image in After Effects for quality viewing
+- [x] Rendering the animation in After Effects for quality viewing
 
 ## Resources & Additional Learning
 - [Adobe Photoshop Learn & Support](https://helpx.adobe.com/support/photoshop.html)
