@@ -38,7 +38,7 @@ Now that you know the background, required skills and professional pathways for 
 3. Open my YouTube tutorial playist
 4. Watch & follow along as we walk through:
 - [x] Pulling an image into Photoshop
-- [x] Editing the image for animation using layering
+- [x] Editing the image into layers for animation
 - [x] Saving the edited image in the correct format for manipulation in After Effects
 - [x] Pulling the edited image into After Effects for animation
 - [x] Adding a fade-in/fade-out for professional quality
